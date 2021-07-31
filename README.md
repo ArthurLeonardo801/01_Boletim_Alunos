@@ -1,0 +1,1 @@
+Conteudo para pratica de aprendizado em C#, onde é introduzido dois nomes de alunos, 3 notas e uma media individual.
